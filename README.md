@@ -150,7 +150,7 @@ DATABASE_URL=postgresql://postgres:YOUR_POSTGRES_PASSWORD@localhost:5432/smart_i
 
 ### Step 3: Set Up & Run the Backend
 
-Open a terminal in the project root.
+Open terminal in the project root.
 
 **Windows PowerShell:**
 
